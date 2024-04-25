@@ -1,2 +1,3 @@
-TODO:
-增加了rho dp的示意图
+TODO: 
+
+作了rho_dp 图 但还未修改legen&格式
